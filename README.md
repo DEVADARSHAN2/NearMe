@@ -1,25 +1,40 @@
-AIM:
+# Ex04 Places Around Me
+
+## DATE:
+
+## AIM
 To develop a website to display details about the places around my house.
 
-Design Steps:
-Step 1:
-Clone the github repository into Theia IDE.
+## DESIGN STEPS
 
-Step 2:
-Create a new Django project
+### STEP 1
+Create a Django admin interface.
 
-Step 3:
-Write the needed HTML code.
+### STEP 2
+Download your city map from Google.
 
-Step 4:
-Run the Django server and execute the HTML files
+### STEP 3
+Using ```<map>``` tag name the map.
 
-Code:
+### STEP 4
+Create clickable regions in the image using ```<area>``` tag.
+
+### STEP 5
+Write HTML programs for all the regions identified.
+
+### STEP 6
+Execute the programs and publish them.
+
+## CODE
+
+index.html:
 ```
 
 ```
-## Output:
+## OUTPUT
 
 
-## Result:
-The program for implementing image map is executed successfully
+
+
+## RESULT
+The program for implementing image maps using HTML is executed successfully.
